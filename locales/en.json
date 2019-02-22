@@ -1,0 +1,21 @@
+{
+	"locale": "en-US",
+	"Oops": {
+		"universal": {
+			"val": "Oops!",
+			"notes": ""
+		}
+	},
+	"OK": {
+		"universal": {
+			"val": "OK",
+			"notes": ""
+		}
+	},
+	"AppName": {
+		"App": {
+			"val": "App Name",
+			"notes": ""
+		}
+	}
+}
